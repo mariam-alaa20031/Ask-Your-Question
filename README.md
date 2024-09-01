@@ -7,7 +7,7 @@
  * Open a new terminal
  * Enter this command --> cd "Ask-Your-Question"
  * Run this command in your terminal to install modules --> npm i
- * Run this command to install your .env file --> npm i dotenv
+ * Run this command to install your the dotenv package --> npm i dotenv
  * Run the application --> node index.js
  * Open your browser and go to http://localhost:3000
  * Click on API in the header of the webpage to access the API documentation.
