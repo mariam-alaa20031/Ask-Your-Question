@@ -2,7 +2,8 @@
  A simple user-friendly node application making use of a GPT API. Ask your question to get a response now!
 
  # Follow these instructions!
- * Clone the git repo by using --> git clone <repository-url>
+ * Replace repository-url with the url of this repository when running below line
+ * Clone the git repo by using --> git clone repository-url
  * Open the cloned repo on vs code
  * Open a new terminal
  * Enter this command --> cd "Ask-Your-Question"
